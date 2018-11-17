@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PY 网络通信  一对多", "PY 网络通信  一对多.pyproj", "{CEB5BFA5-AE82-4DFF-BCCC-BF15E4BEA9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB5BFA5-AE82-4DFF-BCCC-BF15E4BEA9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB5BFA5-AE82-4DFF-BCCC-BF15E4BEA9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A24C83E-A084-4E2E-8BEF-3207004ECBBA}
+	EndGlobalSection
+EndGlobal
